@@ -1,4 +1,4 @@
-# 
+# Professionnel BugSentinel package. Téléchargez et installez avec support des plugins et fichiers vérifiés — rapide, sécurisé et facile à utiliser.
 
 
 
